@@ -1,0 +1,31 @@
+_repo: The-Cat-Animal-Autobiographies_67785
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hunt, Violet
+    alias: Hunt, Isobel Violet
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '41235'
+    url: http://www.gutenberg.org/2009/agents/41235
+    wikipedia: http://en.wikipedia.org/wiki/Violet_Hunt
+description: ''
+gutenberg_issued: '2022-04-06'
+identifiers:
+  gutenberg: '67785'
+language: en
+pgterms:marc904: https://archive.org/details/cat00hunt/page/n9/mode/2up
+pgterms:marc905: 20201116201036hunt
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :Adam & Charles Black,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Cat: Animal Autobiographies'
+url: http://www.gutenberg.org/ebooks/67785
